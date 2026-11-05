@@ -1,0 +1,10 @@
+{
+  "description": "Discover level-matched English stories, build vocabulary, and tailor your reading with search and filters in a calm, immersive learning app.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
